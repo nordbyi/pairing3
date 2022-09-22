@@ -5,3 +5,8 @@ for (i = 0;i<array.length;i++){
     console.log(array[i])
   }
 }
+for (i =0;i<array.length;i++){
+  if(array[i]<60){
+    console.log(array[i])
+  }
+}
